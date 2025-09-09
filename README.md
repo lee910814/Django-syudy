@@ -1,6 +1,6 @@
 # Django-syudy
-django 공부
-
+django 공부<br><br><br><br><br>
+<br>
 📌 프로젝트 개요<br>
 
 Photo App은 Django 학습용으로 제작한 간단한 사진 게시판 웹 애플리케이션입니다.<br>
